@@ -1,10 +1,9 @@
 
 # 📊 Análise - Bundesliga 22/23 (Power BI)
 
-<img width="1563" height="878" alt="Pag1" src="https://github.com/user-attachments/assets/4d0f7acb-8591-4080-b1f1-4737e1308053" />
+<img width="1392" height="781" alt="Pag1" src="https://github.com/user-attachments/assets/e1fefb04-8b8d-478d-bc1b-9f01db43d705" />
 
-
-<img width="1563" height="878" alt="Pag2" src="https://github.com/user-attachments/assets/fcf270d7-cff1-44e3-8c37-66d7b169a67e" />
+<img width="1392" height="781" alt="Pag2" src="https://github.com/user-attachments/assets/6c79ff4d-2ea8-4543-84df-15ff96aa6760" />
 
 
 <br>
